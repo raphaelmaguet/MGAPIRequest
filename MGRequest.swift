@@ -1,3 +1,7 @@
+//  MAGRAF Studio
+//  https://magraf.fr
+//  contact@magraf.fr
+
 class MGRequest: UIViewController {
    
     
